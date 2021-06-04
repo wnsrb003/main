@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JG</h1>
+<h1 align="center">Hi 👋, I'm 박준규</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
 - 🌱 I’m currently learning **NodeJS**
