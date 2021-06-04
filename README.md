@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **NodeJS**
 
 <a href="https://github.com/wnsrb003">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=wnsrb003&theme=omni&hide=contribs,issues"/>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=wnsrb003&theme=merko&hide=contribs,issues"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
