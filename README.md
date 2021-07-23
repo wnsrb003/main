@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-![snake gif](https://github.com/wnsrb003/wnsrb003/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wnsrb003/wnsrb003/blob/output/github-contribution-grid-snake.gif)
 
 <a href="https://github.com/wnsrb003">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=wnsrb003&theme=merko&hide=contribs,issues"/>
